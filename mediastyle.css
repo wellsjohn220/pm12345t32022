@@ -41,8 +41,12 @@
   .form-control {
     background-color: lightyellow;
   }
+  #hideme {
+    display: none;
+  }
 }
 @media screen and (max-width: 480px) {
   .logo {
     font-size: 150px;
   }
+}
